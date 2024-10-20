@@ -30,3 +30,5 @@ This project is an **Automated Text Summarization Tool** built using **Natural L
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rutwik00/Automated-Text-Summarization-Tool-with-NLP.git
+2.	Navigate to the project directory:
+   cd Automated-Text-Summarization-Tool-with-NLP
